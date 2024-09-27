@@ -1,1 +1,1 @@
-Sunscription prediction of customer
+Subscription prediction of customer
